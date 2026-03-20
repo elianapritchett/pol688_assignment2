@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=second
+#SBATCH --job-name=first
 #SBATCH --mail-user=elianapritchett@arizona.edu
 #SBATCH --mail-type=ALL
 #SBATCH --ntasks=1
